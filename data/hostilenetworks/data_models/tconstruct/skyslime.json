@@ -1,0 +1,23 @@
+{
+	"type": "tconstruct:sky_slime",
+	"name": "Skyslime",
+	"name_color": "#00A1D9",
+	"gui_scale": 1.5,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 580,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "The Syslime relies on the element of surprise.\nIt quite enjoys jumping off islands..",
+	"fabricator_drops": [
+		{
+			"item": "tconstruct:sky_slime_ball",
+			"count": 16
+		}
+	]
+}

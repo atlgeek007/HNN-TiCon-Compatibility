@@ -1,0 +1,23 @@
+{
+	"type": "tconstruct:ender_slime",
+	"name": "Skyslime",
+	"name_color": "#B164D6",
+	"gui_scale": 1.5,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 580,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:end_prediction"
+	},
+	"trivia": "The Enderslime is more creative,\nusing the power of the End to teleport.",
+	"fabricator_drops": [
+		{
+			"item": "tconstruct:ender_slime_ball",
+			"count": 16
+		}
+	]
+}
